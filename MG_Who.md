@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Murtaza 
-- 👀 I’m interested in programming and software development
+- 👀 I’m interested in programming and building
 - 🌱 I’m currently learning the ways of life
-- 💞️ I’m looking to collaborate on building games and other softwares
+- 💞️ I’m looking to collaborate on developing games and other softwares
 - 📫 How to reach me --> e-mail: murtazagheewala408@gmail.com
 
 <!---
